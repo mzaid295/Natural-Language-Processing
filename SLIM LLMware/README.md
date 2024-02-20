@@ -1,6 +1,8 @@
-# SLIM Models Streamlit App
+# NLP Tasks On Local Machine
 
-This Streamlit app demonstrates the capabilities of SLIM (Structured Language Instruction Models) developed by LLMWare. SLIM models are designed for various Natural Language Processing (NLP) tasks, and this app showcases the functionalities for AI agents and function calls.
+SLIMs are Structured Language Instruction Models, which are small, specialized 1B parameter LLMs, finetuned to generate structured outputs (Python dictionaries, JSON and SQL) that can be handled programmatically, and stacked together in multi-step, multi-model Agent workflows - all running on a local CPU.
+
+
 
 ## Features
 
@@ -21,7 +23,7 @@ The app supports the following tasks with text input:
 Make sure to install the required Python packages before running the app:
 
 ```bash
-pip install llmware streamlit
+pip install llmware
 pip install streamlit
 ```
 
@@ -47,6 +49,11 @@ Replace `app.py` with the actual name of your Streamlit app file.
 - [streamlit](https://streamlit.io/)
 
 Make sure to have these dependencies installed to run the app successfully.
+
+## Screenshot
+![NLP Stremlit App](https://github.com/mzaid295/Natural-Language-Processing/blob/main/SLIM%20LLMware/StreamLit_App.JPG)
+![Generate Tags](https://github.com/mzaid295/Natural-Language-Processing/blob/main/SLIM%20LLMware/Generate_Tags.JPG)
+![Identify Topics](https://github.com/mzaid295/Natural-Language-Processing/blob/main/SLIM%20LLMware/Identify_Topics.JPG)
 
 ## License
 
