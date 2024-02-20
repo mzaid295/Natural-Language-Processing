@@ -1,6 +1,6 @@
 # SLIM Models Streamlit App
 
-This Streamlit app demonstrates the capabilities of SLIM (Simple Language Interpretation Models) developed by LLMWare. SLIM models are designed for various Natural Language Processing (NLP) tasks, and this app showcases the functionalities for AI agents and function calls.
+This Streamlit app demonstrates the capabilities of SLIM (Structured Language Instruction Models) developed by LLMWare. SLIM models are designed for various Natural Language Processing (NLP) tasks, and this app showcases the functionalities for AI agents and function calls.
 
 ## Features
 
