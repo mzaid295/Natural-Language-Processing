@@ -1,4 +1,3 @@
-```markdown
 # SLIM Models Streamlit App
 
 This Streamlit app demonstrates the capabilities of SLIM (Simple Language Interpretation Models) developed by LLMWare. SLIM models are designed for various Natural Language Processing (NLP) tasks, and this app showcases the functionalities for AI agents and function calls.
@@ -16,7 +15,7 @@ The app supports the following tasks with text input:
 - Get Category
 - Perform Named Entity Recognition (NER)
 - Perform Natural Language Inference (NLI)
-
+```markdown
 ## Installation
 
 Make sure to install the required Python packages before running the app:
