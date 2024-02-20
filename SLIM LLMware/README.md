@@ -15,13 +15,14 @@ The app supports the following tasks with text input:
 - Get Category
 - Perform Named Entity Recognition (NER)
 - Perform Natural Language Inference (NLI)
-```markdown
+
 ## Installation
 
 Make sure to install the required Python packages before running the app:
 
 ```bash
 pip install llmware streamlit
+pip install streamlit
 ```
 
 ## Running the App
@@ -42,7 +43,7 @@ Replace `app.py` with the actual name of your Streamlit app file.
 4. View the results displayed on the app interface.
 
 ## Dependencies
-
+- [llmware](https://huggingface.co/llmware/)
 - [streamlit](https://streamlit.io/)
 
 Make sure to have these dependencies installed to run the app successfully.
